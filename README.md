@@ -1,6 +1,6 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="banner">
 <h1 align="center">Hi 👋, I'm Emmanuel-Mwiti</h1>
-<h3 align="center">A passionate fullstack developer and devOps from Kenyaa</h3>
+<h3 align="center">A passionate fullstack developer and devOps from Kenya</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-mwiti&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-mwiti" /> </p>
