@@ -1,31 +1,30 @@
 <!--
-
-## Complete list of github markdown emoji markup
+## Complete list of GitHub markdown emoji markup
 https://gist.github.com/rxaviers/7360908
 
-## technologies Icons 
+## Technologies Icons 
 https://simpleicons.org/
-
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Emmanuel-Mwiti?label=Follow%20Me&style=social)](https://github.com/Emmanuel-Mwiti)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Emmanuel%20Mwiti-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/emmanuel-mwiti/)
+[![Mail](https://img.shields.io/badge/Gmail-kiuguemmanu@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kiuguemmanu@gmail.com)
 <br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
+[![Codepen](https://img.shields.io/badge/Codepen-Emmanuel%20Mwiti-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/Emmanuel-Mwiti)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Emmanuel%20Mwiti-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Emmanuel-Mwiti)
+[![HackerRank](https://img.shields.io/badge/HackerRank-emmanuel_mwiti-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/emmanuel_mwiti)
+[![Codepen](https://img.shields.io/badge/Codewars-Emmanuel%20Mwiti-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Emmanuel-Mwiti)
+<!-- [![HitCount](http://hits.dwyl.com/Emmanuel-Mwiti/Emmanuel-Mwiti.svg)](http://hits.dwyl.com/Emmanuel-Mwiti/Emmanuel-Mwiti) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+<h2 align='center'><samp><strong>Hi there 👋, I am Emmanuel Mwiti</strong></samp></h2>
+<h3 align='center'><strong><a href="https://emmanuel-mwiti.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Software developer | Full-stack JavaScript | Java/Javascript developer | Web developer</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self-taught software developer also an unstoppable learner. I have evolved into a Full Stack Javascript career path and love working with cutting-edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate the best products.
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -51,44 +50,4 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
-
-🧐 **Knowledge of:**<br>
-
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
-
-
-🌍 **Deployment platforms:**<br>
-
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
-
-
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
-
-
-📚 **Working on:** <br>
-
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-
-
-🤓 **Interested:** <br>
-
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
-
-
-<!-- ✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
-
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&
