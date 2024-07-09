@@ -22,11 +22,10 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://emmanuel-mwiti.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Java/Javascript developer | Web developer</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self-taught software developer also an unstoppable learner. I have evolved into a Full Stack Java and Javascript career path and love working with cutting-edge tools and technologies.</p>
+<p align='left'> 📫 Passionate about tech and constantly learning more about software and life. I specialize in developing APIs and working with Java and Angular. Aspiring to become proficient in DevOps and Site Reliability Engineering (SRE), I am always eager to explore cutting-edge tools and technologies.</p>
+Programmer specialized in API development using multiple tools, frameworks, and libraries for both frontend and backend. I pay a lot of attention to detail to generate the best products.
 
-Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate the best products.
-
-💻 **Languages and Tools:** 🛠️<br>
+💻 Languages and Tools: 🛠️
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -55,7 +54,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`APIs architect and development`, `Angular`, `Kubernetes`, `React Router`, `Enzyme`, `Docker`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
